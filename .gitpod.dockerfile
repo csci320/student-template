@@ -1,3 +1,3 @@
-FROM gitpod/workspace-mysql
 FROM gitpod/workspace-mongodb
-COPY --from=0 / /
+FROM gitpod/workspace-mysql
+COPY --from=0 /usr/bin/mongod /usr/bin/mongod
