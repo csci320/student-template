@@ -1,6 +1,6 @@
 This is a template repo for CSCI 320: Database Systems.
 
-Create your own GitHub repo using this template. Your repo should be owned by the `csci320` organization, and named with your username. It should be a public repo, and you should select the option to copy all branches from the template.
+Create your own GitHub repo using this template. Your repo should be owned by the `csci320` organization, and named with your username. It must be a *public* repo.
 
 Then, create a GitPod workspace based on your new repo. You can do this by pointing your browser to https://gitpod.io/#https://github.com/csci320/YOUR-REPO-NAME
 
